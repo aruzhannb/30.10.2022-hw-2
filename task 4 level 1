@@ -1,0 +1,6 @@
+i = 1 
+j <= 200
+while i < 20:
+    print('Vvedite moshnost', i, 'avtomobilya')
+    if j > 200:
+        print("avtomobil", i, "prevyshaet moshnost dvigatelya v 200 l.s")
