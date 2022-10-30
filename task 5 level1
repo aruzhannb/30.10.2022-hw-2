@@ -1,0 +1,5 @@
+i = int(input('введите номер ученика'))
+for i in range(1, 26):
+    g = int(input('введите оценку'))
+    for g in range(2, 6):
+        print(i, g)
